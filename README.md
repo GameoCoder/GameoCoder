@@ -28,13 +28,11 @@ Tools & Libraries:
   - Docker Compose
 ```
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 * Contribute to **open source**
 * Improve **DSA and problem-solving**
 * Build real-world projects
-* Land remote internships or freelance gigs
-* Help fellow students from Tier 3 colleges believe in themselves
 
 ## 📫 Reach Me
 
